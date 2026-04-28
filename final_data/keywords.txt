@@ -1,0 +1,134 @@
+keywords1 = [
+    # Electronics
+    "laptop", "smartphone", "tablet", "smartwatch", "bluetooth headphones", "wireless earbuds", "monitor", "printer", "webcam", "power bank",
+
+    # Computers & Accessories
+    "gaming mouse", "mechanical keyboard", "laptop stand", "usb hub", "external hard drive", "flash drive", "cooling pad", "desk lamp",
+
+    # Gaming
+    "gaming chair", "gaming headset", "gaming keyboard", "controller", "playstation console", "xbox console", "vr headset",
+
+    # Home & Kitchen
+    "air fryer", "microwave", "blender", "coffee maker", "vacuum cleaner", "electric kettle", "toaster", "rice cooker",
+
+    # Fashion
+    "men t-shirt", "women dress", "jeans", "hoodie", "sneakers", "running shoes", "jacket", "handbag",
+
+    # Beauty & Personal Care
+    "face moisturizer", "sunscreen", "shampoo", "hair dryer", "makeup kit", "perfume", "electric shaver",
+
+    # Health & Household
+    "vitamins", "first aid kit", "thermometer", "hand sanitizer", "air purifier", "humidifier",
+
+    # Sports & Outdoors
+    "dumbbells", "yoga mat", "treadmill", "exercise bike", "camping tent", "sleeping bag", "backpack",
+
+    # Baby Products
+    "baby stroller", "baby car seat", "diapers", "baby monitor", "baby bottle",
+
+    # Pet Supplies
+    "dog food", "cat litter", "pet bed", "dog leash", "pet toys",
+
+    # Office Products
+    "office chair", "desk", "notebook", "planner", "pen set", "whiteboard",
+
+    # Tools & Home Improvement
+    "drill machine", "screwdriver set", "tool kit", "measuring tape", "ladder",
+
+    # Automotive
+    "car charger", "dash cam", "seat cover", "car vacuum cleaner", "tire inflator"
+]
+
+keywords2 = [
+    # Electronics
+    "smart tv", "android tv box", "soundbar", "home theater system", "projector", "noise cancelling headphones", "portable speaker", "walkie talkie",
+
+    # Computers & Accessories
+    "graphics card", "motherboard", "ram memory", "cpu processor", "pc case", "gaming monitor", "drawing tablet", "ethernet cable",
+
+    # Gaming
+    "gaming desk", "racing wheel", "gaming mouse pad", "console cooling fan", "game capture card",
+
+    # Home & Kitchen
+    "pressure cooker", "food processor", "dish drying rack", "water dispenser", "storage containers", "bed sheets", "blackout curtains",
+
+    # Furniture
+    "bookshelf", "tv stand", "wardrobe closet", "coffee table", "bed frame", "mattress topper",
+
+    # Fashion
+    "formal shoes", "casual sneakers", "abaya", "pajama set", "swimwear", "belt", "sunglasses", "wallet",
+
+    # Beauty & Personal Care
+    "hair straightener", "curling iron", "face serum", "body lotion", "makeup brushes", "nail kit", "beard trimmer",
+
+    # Health & Fitness
+    "resistance bands", "pull up bar", "fitness tracker watch", "massager gun", "foam roller",
+
+    # Baby Products
+    "baby crib", "baby walker", "baby clothes set", "baby blanket", "pacifier",
+
+    # Toys & Games
+    "lego set", "board games", "puzzle 1000 pieces", "remote control car", "action figures",
+
+    # Pet Supplies
+    "cat tree", "dog crate", "pet grooming kit", "automatic pet feeder", "aquarium tank",
+
+    # Office Products
+    "desk organizer", "filing cabinet", "sticky notes", "label maker", "paper shredder",
+
+    # Tools & Home Improvement
+    "electric screwdriver", "angle grinder", "tool storage box", "wall drill bits", "paint roller",
+
+    # Automotive
+    "car jump starter", "car phone holder", "roof rack", "car polish kit", "led headlights",
+
+    # Garden & Outdoor
+    "garden hose", "outdoor furniture set", "bbq grill", "patio umbrella", "solar garden lights"
+]
+
+keywords3 = [
+    # Electronics
+    "e reader", "digital photo frame", "hdmi switch", "tv wall mount", "streaming device", "wireless charger", "alarm clock radio",
+
+    # Computers & Accessories
+    "laptop backpack", "screen cleaning kit", "keyboard cover", "mouse bungee", "monitor arm", "docking station", "privacy screen filter",
+
+    # Gaming
+    "gaming earbuds", "arcade controller", "gaming finger sleeves", "console stand", "gaming glasses",
+
+    # Home & Kitchen
+    "knife set", "cutting board", "spice rack", "dish soap dispenser", "laundry basket", "ironing board", "clothes drying rack",
+
+    # Furniture & Decor
+    "wall art decor", "floor lamp", "table lamp", "area rug", "mirror full length", "floating shelves",
+
+    # Fashion
+    "sportswear set", "winter coat", "thermal underwear", "cap hat", "scarf", "gloves", "crossbody bag",
+
+    # Beauty & Personal Care
+    "facial cleanser", "makeup remover", "lip balm", "hair mask", "essential oils", "electric toothbrush",
+
+    # Health & Wellness
+    "blood pressure monitor", "weighing scale digital", "back support brace", "sleep mask", "hot water bottle",
+
+    # Baby Products
+    "baby high chair", "baby carrier", "diaper bag backpack", "baby wipes", "teething toys",
+
+    # Toys & Games
+    "educational toys", "building blocks", "card games", "kids scooter", "doll house",
+
+    # Pet Supplies
+    "dog training pads", "pet water fountain", "cat scratching post", "pet carrier bag", "fish tank filter",
+
+    # Office Products
+    "office desk pad", "business card holder", "calendar planner", "document folder", "pen holder",
+
+    # Tools & Home Improvement
+    "stud finder", "laser level", "extension cord", "power strip surge protector", "work gloves",
+
+    # Automotive
+    "car sunshade", "car trash can", "windshield cover", "car cleaning gel", "fuel can",
+
+    # Garden & Outdoor
+    "plant pots", "watering can", "garden tools set", "outdoor string lights", "picnic blanket"
+]
